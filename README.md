@@ -1,4 +1,4 @@
-Thisapp is no longer being maintained. To ssee the finished repo along with a video explaining the process lookup https://github.com/jondevops/formApp
+This app is no longer being maintained. To ssee the finished repo along with a video explaining the process lookup https://github.com/jondevops/formApp
 
 
 
